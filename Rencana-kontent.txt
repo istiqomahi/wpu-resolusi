@@ -1,3 +1,6 @@
 Rencana Kontent :
 - Menulis
 - Edit Kontent
+Pemrograman Frontend:
+- React JS
+- angular
