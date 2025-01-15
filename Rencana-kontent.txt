@@ -1,6 +1,7 @@
 Rencana Kontent :
 - Menulis
 - Edit Kontent
-Pemrograman Frontend:
+- Struktur Data Dasar
+- PHP Framework
 - React JS
 - angular
