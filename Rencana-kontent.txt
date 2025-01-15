@@ -3,3 +3,4 @@ Rencana Kontent :
 - Edit Kontent
 Pemrograman Frontend:
 - React JS
+- angular
